@@ -64,7 +64,11 @@ a {
     font-weight: 600;
     position: sticky;
     top: 0;
+<<<<<<< HEAD
     z-index: 3;
+=======
+    z-index : 3;
+>>>>>>> 2c17aed5a1ffd3dac63b4cee67cecd8e62e27782
 }
 .after-nav ul {
     list-style-type: none;
